@@ -33,7 +33,7 @@ Guess my number (1–100):
 Your number is too small
 Guess my number (1–100):
 WOOHOO .. CORRECT NUMBER!!!
-My number was: 84
+My number was: 48
 Process finished with exit code 0
 ```
 
